@@ -6,4 +6,4 @@
 #### The right choice will lead the player to the treasure and win the game!
 #### If a player does not choose from the choices presented, the player will lose.
 
-Play Game https://replit.com/@lydiecherilus/TreasureHunt?v=1
+[Click here to play](https://replit.com/@lydiecherilus/TreasureHunt?v=1)
